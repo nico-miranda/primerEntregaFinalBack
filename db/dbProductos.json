@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Call of Duty: Modern Warfare 2",
+    "price": "69 USD",
+    "description": "The best shooter of the year",
+    "thumbnail": "https://dummyimage.com/250/000/555",
+    "stock": "9",
+    "id": 1
+  },
+  {
+    "title": "Elden Ring",
+    "price": "80 USD",
+    "description": "One of the best RPG games in this year",
+    "thumbnail": "https://dummyimage.com/250/000/fff",
+    "stock": "6",
+    "id": 2
+  },
+  {
+    "title": "God of War: Ragnarök",
+    "price": "89 USD",
+    "description": "Selected like the best game of year",
+    "thumbnail": "https://dummyimage.com/250/000/fff",
+    "stock": "5",
+    "id": 3
+  },
+  {
+    "id": 4,
+    "title": "Pummel Party",
+    "price": "5 USD",
+    "description": "The favorite table game of the people",
+    "thumbnail": "https://dummyimage.com/250/000/555",
+    "stock": "8"
+  },
+  {
+    "id": 5
+  },
+  {
+    "id": 6
+  }
+]

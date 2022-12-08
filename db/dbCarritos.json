@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "timestamp": 1646028665583,
+        "products": []
+    },
+    {
+        "id": 2,
+        "timestamp": 1646028665583,
+        "products": []
+    },
+    {
+        "id": 3,
+        "timestamp": 1646028665583,
+        "products": []
+    },
+    {
+        "id": 111990,
+        "timestamp": 1670473648469,
+        "creationDate": "12/7/2022",
+        "usuario": "nico291080",
+        "products": [
+        {
+            "title": "Call of Duty: Modern Warfare 2",
+            "price": "69 USD",
+            "description": "The best shooter of the year",
+            "thumbnail": "https://dummyimage.com/250/000/555",
+            "stock": "9",
+            "id": 1
+        },
+        {
+            "title": "God of War: Ragnarök",
+            "price": "89 USD",
+            "description": "Selected like the best game of year",
+            "thumbnail": "https://dummyimage.com/250/000/fff",
+            "stock": "5",
+            "id": 3
+        }
+        ]
+    }
+]
